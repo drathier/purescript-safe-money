@@ -1,0 +1,1 @@
+{"type":"Fetched","value":{"result":{"url":"https://github.com/purescript/purescript-record.git","sha256":"1g7s2h1as5cz824wpm0jhjprrh66shha5i4gq37q73yw0s5p2ahm","rev":"c89cd1ada6b636692571fc374196b1c39c4c9f70"},"package":{"version":"v4.0.0","repo":{"tag":"Remote","contents":"https://github.com/purescript/purescript-record.git"},"packageName":"record"}}}

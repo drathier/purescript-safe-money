@@ -1,0 +1,1 @@
+{"type":"Fetched","value":{"result":{"url":"https://github.com/purescript/purescript-tailrec.git","sha256":"0snhrvkpd429r0d0bzs0mxwwz3am9bpa1m9f5a9hpmyjjkl7gddw","rev":"5661a10afbd4849bd2e45139ea567beb40b20f9f"},"package":{"version":"v6.1.0","repo":{"tag":"Remote","contents":"https://github.com/purescript/purescript-tailrec.git"},"packageName":"tailrec"}}}

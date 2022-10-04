@@ -1,0 +1,1 @@
+{"type":"Fetched","value":{"result":{"url":"https://github.com/purescript/purescript-functors.git","sha256":"1pnw3r1nk0rx8mrw3ajjml40zvx9v26qrqwj77pz7hpwxigxfbff","rev":"022ffd7a2a7ec12080314f3d217b400674a247b4"},"package":{"version":"v5.0.0","repo":{"tag":"Remote","contents":"https://github.com/purescript/purescript-functors.git"},"packageName":"functors"}}}

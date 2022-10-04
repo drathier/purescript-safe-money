@@ -1,0 +1,1 @@
+{"type":"Fetched","value":{"result":{"url":"https://github.com/purescript/purescript-invariant.git","sha256":"07rqag47ykdiqc5yfbc1a64ijaqliljhcw1vgbv81m7ljzzd2xna","rev":"1d2a196d51e90623adb88496c2cfd759c6736894"},"package":{"version":"v6.0.0","repo":{"tag":"Remote","contents":"https://github.com/purescript/purescript-invariant.git"},"packageName":"invariant"}}}

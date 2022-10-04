@@ -1,0 +1,1 @@
+{"type":"Fetched","value":{"result":{"url":"https://github.com/purescript/purescript-foreign-object.git","sha256":"0ql0vgndcb5dqaqz81mvrqkrl5c2rlgxpydgdiiaxmmfxvxwi439","rev":"28a635827a9a6c251df73f68874070d51fe9f756"},"package":{"version":"v4.0.0","repo":{"tag":"Remote","contents":"https://github.com/purescript/purescript-foreign-object.git"},"packageName":"foreign-object"}}}

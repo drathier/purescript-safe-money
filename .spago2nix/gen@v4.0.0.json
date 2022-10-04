@@ -1,0 +1,1 @@
+{"type":"Fetched","value":{"result":{"url":"https://github.com/purescript/purescript-gen.git","sha256":"0kajzcp9a8dmqvb3ga27hlf18m2smbp98a0bmzzb9vv156ckw0b4","rev":"9fbcc2a1261c32e30d79c5418edef4d96fe76931"},"package":{"version":"v4.0.0","repo":{"tag":"Remote","contents":"https://github.com/purescript/purescript-gen.git"},"packageName":"gen"}}}

@@ -1,0 +1,1 @@
+{"type":"Fetched","value":{"result":{"url":"https://github.com/purescript/purescript-type-equality.git","sha256":"1ass38jdycsjisdimdc4drg2w8vkkwp6lkvz3kvy7q0h98vdmlbr","rev":"0525b7d39e0fbd81b4209518139fb8ab02695774"},"package":{"version":"v4.0.1","repo":{"tag":"Remote","contents":"https://github.com/purescript/purescript-type-equality.git"},"packageName":"type-equality"}}}

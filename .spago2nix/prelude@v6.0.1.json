@@ -1,0 +1,1 @@
+{"type":"Fetched","value":{"result":{"url":"https://github.com/purescript/purescript-prelude.git","sha256":"0j6mb9w728ifcp10jdv7l9k7k5pw8j1f0fa7xyb8xmbxzc59xqpy","rev":"f4cad0ae8106185c9ab407f43cf9abf05c256af4"},"package":{"version":"v6.0.1","repo":{"tag":"Remote","contents":"https://github.com/purescript/purescript-prelude.git"},"packageName":"prelude"}}}

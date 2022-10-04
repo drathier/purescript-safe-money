@@ -1,0 +1,1 @@
+{"type":"Fetched","value":{"result":{"url":"https://github.com/purescript/purescript-enums.git","sha256":"1wk98ddmgyii1ifqawnhqkiqlrs405qcp3m12jsg1yp8jv6ppv47","rev":"cd373c580b69fdc00e412bddbc299adabe242cc5"},"package":{"version":"v6.0.1","repo":{"tag":"Remote","contents":"https://github.com/purescript/purescript-enums.git"},"packageName":"enums"}}}
